@@ -2,3 +2,7 @@ flask
 python-dotenv
 flask-cors
 requests
+streamlit
+pandas
+matplotlib
+plotly

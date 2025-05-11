@@ -8,6 +8,15 @@
    - Install dependencies: `npm install`
    - Run: `npm start`
 
+## Execution Instructions
+```bash
+cd backend
+python -m venv venv
+.\venv\Scripts\activate # Windows: venv\Scripts\activate  
+pip install -r requirements.txt
+flask run
+```
+
 ## Data Sources
 - **OTX**: AlienVault Open Threat Exchange
 - **AbuseIPDB** (optional)
