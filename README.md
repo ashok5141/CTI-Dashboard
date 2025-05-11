@@ -1,6 +1,7 @@
 # Cyber Threat Intelligence Dashboard - OTX Pulses
 
-Dashboard Overview The **Cyber Threat Intelligence Dashboard** provides an intuitive interface for visualizing cyber threat intelligence data retrieved from the AlienVault OTX API. The dashboard allows users to filter and analyze different threat indicators, including CVE, file hashes (MD5, SHA1, SHA256), URLs, and domains. ### Key Features:
+Dashboard Overview The **Cyber Threat Intelligence Dashboard** provides an intuitive interface for visualizing cyber threat intelligence data retrieved from the AlienVault OTX API. The dashboard allows users to filter and analyze different threat indicators, including CVE, file hashes (MD5, SHA1, SHA256), URLs, and domains. 
+### Key Features:
  - **Filter Indicators**: Easily filter the data by indicator type (e.g., Filehash SHA256, URL, CVE), severity (e.g., amber), and source (e.g., OTX). 
  - **Indicator Type Distribution**: A bar chart displaying the distribution of indicator types across different threats. 
  - **Severity Breakdown**: A pie chart visualizing the breakdown of threat severities, enabling quick identification of the threat landscape. 
